@@ -28,8 +28,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 node question3.js
 
-#output
+# output
 
-# numbers [4, 11, 17, 25] target 21, Answer:  [ 1, 3 ]
-# numbers [0, 1, 2, 2, 3, 5] target 4  Answer:  [ 2, 5 ]
-# numbers [-1, 0] target -1  Answer:  [ 1, 2 ]
+### numbers [4, 11, 17, 25] target 21, Answer:  [ 1, 3 ]
+### numbers [0, 1, 2, 2, 3, 5] target 4  Answer:  [ 2, 5 ]
+### numbers [-1, 0] target -1  Answer:  [ 1, 2 ]
