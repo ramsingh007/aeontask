@@ -10,9 +10,7 @@ calculator will show index page (http://localhost:3000)
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-![Challenge 1](https://i.ibb.co/HVYdLL3/localhost-3000-i-Phone-SE.png)
-
-
+<img src="https://i.ibb.co/HVYdLL3/localhost-3000-i-Phone-SE.png" alt="desktop view" width="300" height="400"/>
 
 # Challenge 2: Create a blank page using React Native that contains the navbar
 # Install Package
