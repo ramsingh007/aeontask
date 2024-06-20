@@ -23,10 +23,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
-##desktop view
+## desktop view
 ![Challenge 2](https://i.ibb.co/DYxgs1g/Screenshot-3.png)
+<img src="./images/feature1.png" alt="Feature Image" width="400"/>
 
-##Mobile view
+
+## Mobile view
 ![Challenge 2](https://i.ibb.co/0K6GnG0/localhost-3000-i-Phone-SE-1.png)
 
 
