@@ -50,8 +50,8 @@ function App() {
         <h1>Adding Two Numbers</h1>
         <div className="c">
           <input
+            className='inputnumber'
             type="number"
-              className='inputnumber'
             value={num1}
             onChange={(e) => setNum1(e.target.value)}
             placeholder="Enter first number"
