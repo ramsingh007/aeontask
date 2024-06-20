@@ -25,11 +25,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## desktop view
 ![Challenge 2](https://i.ibb.co/DYxgs1g/Screenshot-3.png)
-<img src="https://i.ibb.co/DYxgs1g/Screenshot-3.png" alt="desktop view" width="400"/>
 
 
 ## Mobile view
-![Challenge 2](https://i.ibb.co/0K6GnG0/localhost-3000-i-Phone-SE-1.png)
+
+<img src="https://i.ibb.co/0K6GnG0/localhost-3000-i-Phone-SE-1.png" alt="desktop view" width="300" height="400"/>
 
 
 
