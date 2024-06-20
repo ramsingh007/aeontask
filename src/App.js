@@ -10,7 +10,7 @@ function App() {
   const [total, setTotal] = useState(null);
 
   const handleAddition = () => {
-    if (num1 == "" || num2 == "") {
+    if (num1 === "" || num2 === "") {
       alert("Enter first and second number")
       return;
     }
@@ -51,11 +51,13 @@ function App() {
         <div className="c">
           <input
             type="number"
+              className='inputnumber'
             value={num1}
             onChange={(e) => setNum1(e.target.value)}
             placeholder="Enter first number"
           />
           <input
+          className='inputnumber'
             type="number"
             value={num2}
             onChange={(e) => setNum2(e.target.value)}
