@@ -25,7 +25,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## desktop view
 ![Challenge 2](https://i.ibb.co/DYxgs1g/Screenshot-3.png)
-<img src="./images/feature1.png" alt="Feature Image" width="400"/>
+<img src="https://i.ibb.co/DYxgs1g/Screenshot-3.png" alt="desktop view" width="400"/>
 
 
 ## Mobile view
